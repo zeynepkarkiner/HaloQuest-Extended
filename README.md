@@ -2,7 +2,7 @@
 An extended version of HaloQuest Dataset 
 
 ## Further Assistance 
-For your further questions about the datasets and labels, feel free to contact zeynepkarkiner@gmail.com 
+For your further questions about the dataset and labels, feel free to contact zeynepkarkiner@gmail.com 
 ## License
 
 This extended dataset is a derivative work of the original HaloQuest dataset by Google. 
