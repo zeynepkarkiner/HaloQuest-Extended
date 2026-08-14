@@ -1,5 +1,5 @@
 # HaloQuest-Extended
-An extended version of HaloQuest Dataset (VQATask)
+An extended version of HaloQuest Dataset 
 
 ## License
 
